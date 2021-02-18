@@ -1,0 +1,3 @@
+[submodule "quickstart-citrix-adc-vpx"]
+	path = quickstart-citrix-adc-vpx
+	url = https://github.com/aws-quickstart/quickstart-citrix-adc-vpx
